@@ -1,0 +1,28 @@
+#all-text{
+    background-color:whitesmoke;
+    max-width: 100%;
+    padding:15px;
+    border: 1px solid gainsboro;
+    height: 50vh;
+    overflow: scroll;
+}
+#handle-name{
+    max-width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+#message{
+    max-width: 100%;
+    padding: 10px;
+}
+#send-text{
+    max-height: 100%;
+    padding:10px;
+    text-align: center;
+    margin: 10px 0;
+}
+.texts{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
